@@ -15,7 +15,7 @@ class Display extends Component {
 
       <div className="MainContainer">
 
-      <h2>Library Catalog</h2>
+      <h2>Library Catalogue</h2>
 
       <div className="LibarayList"> 
 
